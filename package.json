@@ -27,7 +27,7 @@
     "@trpc/client": "^10.26.0",
     "@trpc/next": "^10.26.0",
     "@trpc/react-query": "^10.26.0",
-    "@trpc/server": "^10.26.0",
+    "@trpc/server": "^10.43.3",
     "clsx": "^1.2.1",
     "date-fns": "^2.30.0",
     "dayjs": "^1.11.7",
